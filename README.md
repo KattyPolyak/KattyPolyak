@@ -8,7 +8,7 @@ I'm a software engineer specialized in JavaScript with React and Node. I also en
 
 #### 🌱 I’m currently learning:
 - Python Imageio and NumPy for image manipulation/filtering 
-- Phaser.js for JavaScript games
+- GDevelop for JavaScript games
 - Next.js for SSR and an alternative to Node.js for backend servers
 
 <!--
