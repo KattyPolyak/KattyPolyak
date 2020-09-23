@@ -47,6 +47,8 @@ I'm a software engineer specialized in JavaScript with React and Node. I also en
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div></td></tr></table>  
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KattyPolyak&show_icons=true&count_private=true)
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/KattyPolyak" target="_blank">
