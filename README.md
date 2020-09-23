@@ -6,7 +6,7 @@ I'm a software engineer specialized in JavaScript with React and Node. I also en
 - DockerLocal: An Electron GUI Application with a React Frontend that simplifies the process of local integration testing for Dockerized microservice applications. 
 - Give'n'Go: A React Native app to connect people who need toiletries/groceries/other goods with those who live nearby and are willing to donate and drop off those goods to them.
 
-#### 🌱 I’m currently learning 
+#### 🌱 I’m currently learning:
 - Python Imageio and NumPy for image manipulation/filtering 
 - Phaser.js for JavaScript games
 - Next.js for SSR and an alternative to Node.js for backend servers
