@@ -7,8 +7,8 @@ I'm a software engineer specialized in JavaScript with React and Node. I also en
 - [Give'N'Go](https://github.com/GiveNGo/GiveNGo): A React Native app to connect people who need toiletries/groceries/other goods with those who live nearby and are willing to donate and drop off those goods to them.
 
 #### 🌱 I’m currently learning
-- Python Imageio and NumPy for image manipulation/filtering 
-- GDevelop for JavaScript games
+- OpenCV for image manipulation/filtering 
+- Unity for games
 - Next.js for SSR and an alternative to Node.js for backend servers
 
 ## My Skill Set  
@@ -47,8 +47,6 @@ I'm a software engineer specialized in JavaScript with React and Node. I also en
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div></td></tr></table>  
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KattyPolyak&show_icons=true&count_private=true)
 
 ## Connect with me  
 <div align="center">
