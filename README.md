@@ -3,7 +3,7 @@ I'm a software engineer with experience in Python, AWS, Elixir, Node.js, Express
 
 #### 🌱 I’m currently learning
 - Elixir
-- Eventual Consistency, CQRS and Event Sourcing
+- Eventual Consistency, CQRS, and Event Sourcing
 - Design considerations for scaling applications
 
 #### 📚 I'm currently reading
